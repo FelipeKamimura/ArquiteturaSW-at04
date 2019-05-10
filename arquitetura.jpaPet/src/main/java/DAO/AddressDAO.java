@@ -12,6 +12,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
  *
  * @author Kamimura
  */
-public interface AdressDAO extends JpaRepository<Address, Long> {
+public interface AddressDAO extends JpaRepository<Address, Long> {
     
 }
